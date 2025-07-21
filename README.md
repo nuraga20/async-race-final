@@ -1,5 +1,5 @@
 ## Deployed version (Frontend only) https://async-race-final-bdsz.vercel.app/ 
-## I can run my server at any time. My email: agadilnurbergen@gmail.com
+
 
 ## Estimated Score: 365 / 400
 

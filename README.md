@@ -1,3 +1,4 @@
+My estimated score: 365 / 400
 Basic Structure (80 points)
 Two Views (10): ✅ Both "Garage" and "Winners" views are implemented.
 Garage View Content (30): ✅ Name, car creation/editing, race control, and garage section are present.
@@ -34,7 +35,7 @@ Subtotal: 170/170
 
 🎨 Prettier and ESLint Configuration (10 points)
 Prettier Setup (5): ✅ Prettier scripts are present.
-ESLint Configuration (5): ❌ You intentionally skipped ESLint as per your requirements.
+ESLint Configuration (5): ❌
 Subtotal: 5/10
 Estimated Total Score
 Section Points Achieved
@@ -43,5 +44,3 @@ Garage View 90 60
 Winners View 50 50
 Race 170 170
 Prettier/ESLint 10 5
-Total 400 365
-Your estimated score: 365 / 400

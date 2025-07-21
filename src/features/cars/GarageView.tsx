@@ -5,7 +5,6 @@ import { fetchCars, setPage, selectCar, removeCar } from './carsSlice';
 
 const BASE_URL = 'http://127.0.0.1:3000';
 const TRACK_LENGTH = 600;
-const TRACK_HEIGHT = 32;
 
 const CarIcon: React.FC<{ color: string }> = ({ color }) => (
   <svg width="40" height="20" viewBox="0 0 40 20">
